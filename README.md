@@ -1,6 +1,6 @@
 📝 To-Do List (DOM)
 
-A simple To-Do List web app built using HTML,CSS, and JavaScript, focusing on DOM manipulation. dd and delete tasks easily — all on the browser with no external dependencies.
+A simple To-Do List web app built using HTML,CSS, and JavaScript, focusing on DOM manipulation. Add and delete tasks easily — all on the browser with no external dependencies.
 
 Features :
 - Add new tasks
